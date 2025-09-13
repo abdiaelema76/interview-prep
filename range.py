@@ -3,3 +3,4 @@ def inRange(x, y):
 
 print(inRange(-1, 3))
 print(inRange(2, 3))
+print(inRange(4, 5))
